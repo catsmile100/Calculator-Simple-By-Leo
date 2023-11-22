@@ -1,16 +1,4 @@
 # calculator_catsmile.aleo
-
-## Build Guide
-
-To compile this Aleo program, run:
-```bash
-snarkvm build
-```
-
-To execute this Aleo program, run:
-```bash
-snarkvm run hello
-```
 code: 
 ```bash
 program calculator_catsmile.aleo {
